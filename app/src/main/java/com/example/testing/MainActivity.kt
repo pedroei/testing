@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         //TODO: something
 
         //TODO: login
+
+        //TODO: registar
     }
 }
