@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         //TODO: login
 
         //TODO: registar
+
+        //TODO: forgot password
     }
 }
