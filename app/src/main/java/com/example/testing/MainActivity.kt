@@ -11,5 +11,11 @@ class MainActivity : AppCompatActivity() {
         //TODO: something
 
         //FIXME: corrigir bug
+
+        //TODO: login
+
+        //TODO: registar
+
+        //TODO: forgot password
     }
 }
