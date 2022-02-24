@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Hello from Kotlin code!!")
         //TODO: something
+
+        //FIXME: corrigir bug
     }
 }
